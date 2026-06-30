@@ -1,4 +1,3 @@
-### Hand-Gesture-Recognition
 # 📸 Hand Gesture Recognition System
 
 <p align="center">
